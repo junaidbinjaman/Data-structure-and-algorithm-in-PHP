@@ -1,3 +1,4 @@
 <?php 
 
-echo "I am here to help";
+$random_number = rand(10000, 99999);
+echo $random_number;
